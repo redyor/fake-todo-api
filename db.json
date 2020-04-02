@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "text": "something",
+      "createdAt": 1585695697309,
+      "isCompleted": false,
+      "id": 1
+    },
+    {
+      "text": "asdsadas",
+      "createdAt": 1585697913139,
+      "isCompleted": true,
+      "id": 9
+    },
+    {
+      "text": "asdsadasdas",
+      "createdAt": 1585699477798,
+      "isCompleted": true,
+      "id": 10
+    },
+    {
+      "text": "asdasdase222",
+      "createdAt": 1585768697278,
+      "isCompleted": false,
+      "id": 14
+    },
+    {
+      "text": "sdfsdf",
+      "createdAt": 1585786175329,
+      "isCompleted": false,
+      "id": 15
+    }
+  ]
+}

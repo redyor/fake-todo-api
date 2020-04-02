@@ -1,0 +1,14 @@
+{
+  "name": "json-test-server",
+  "version": "1.0.0",
+  "description": "Fake Todo API json",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json --port 8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
